@@ -2,7 +2,7 @@
 
 Teng Zhang. Supplementary code, certificates and audit materials, 29 September 2026.
 
-- [Paper (PDF)](https://zhangteng2000.github.io/files/borcea_variance.pdf)
+- [Paper (PDF)](https://zhangteng2000.github.io/files/Borcea_2_variance_conjecture.pdf)
 - [Code, certificates and verification reports](supplement/)
 - [Complete materials download](https://github.com/zhangteng2000/borcea-variance/archive/refs/heads/main.zip)
 - [Mathematical and computational audit](AUDIT_REPORT.md)
